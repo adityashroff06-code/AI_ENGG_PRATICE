@@ -1,0 +1,11 @@
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.6
+nltk>=3.9
+spacy>=3.8
+gensim>=4.3
+scikit-learn>=1.6
+vaderSentiment>=3.3
+transformers>=4.40
+torch>=2.2
+jupyter>=1.0
